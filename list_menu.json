@@ -3,12 +3,17 @@
   {
   "judul" : "effect recall",
   "desc" : "for recall",
-  "img" : "url here"
+  "img" : "url here",
+  "Roll" : "Recall",
+  "her" : "Classic Replacement"
+  
   },
   {
-    "judul" : "effect recall",
+    "judul" : "effect eliminasi",
   "desc" : "for recall",
-  "img" : "url here"
+  "img" : "url here",
+  "Roll" : "Elimination",
+  "her" : "Classic Replacement"
   }
   
   ]
