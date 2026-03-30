@@ -9,6 +9,14 @@
   
   },
   {
+  "judul" : "effect recall",
+  "desc" : "for recall",
+  "img" : "url here",
+  "roll" : "Recall",
+  "her" : "Classic Replacement",
+   "url" : "https://raw.githubusercontent.com/kurakura5555/kumpulan/main/trail.json"
+  },
+  {
     "judul" : "map MLBB",
   "desc" : "for recall",
   "img" : "url here",
@@ -20,7 +28,8 @@
   "desc" : "for recall",
   "img" : "url here",
   "roll" : "Map",
-  "her" : "Imperial Sy"
+  "her" : "Imperial Sanctury"
+    
   }
   
   ]
