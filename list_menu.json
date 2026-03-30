@@ -9,11 +9,18 @@
   
   },
   {
-    "judul" : "effect eliminasi",
+    "judul" : "map MLBB",
   "desc" : "for recall",
   "img" : "url here",
-  "roll" : "Elimination",
-  "her" : "Classic Replacement"
+  "roll" : "Map",
+  "her" : "Imperial Sanctury"
+  },
+  {
+    "judul" : "map MLBB",
+  "desc" : "for recall",
+  "img" : "url here",
+  "roll" : "Map",
+  "her" : "Imperial Sy"
   }
   
   ]
