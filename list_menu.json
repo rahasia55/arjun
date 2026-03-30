@@ -4,7 +4,7 @@
   "judul" : "effect recall",
   "desc" : "for recall",
   "img" : "url here",
-  "Roll" : "Recall",
+  "roll" : "Recall",
   "her" : "Classic Replacement"
   
   },
@@ -12,7 +12,7 @@
     "judul" : "effect eliminasi",
   "desc" : "for recall",
   "img" : "url here",
-  "Roll" : "Elimination",
+  "roll" : "Elimination",
   "her" : "Classic Replacement"
   }
   
