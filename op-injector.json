@@ -2,7 +2,7 @@
     "dialog_visibility": "VISIBLE",
     "min_version" : "3.9",
     "dialog_title": "Aplikasi di tutup dan pindah ke BS Tools",
-    "dialog_message": "The app will close shortly and automatically switch to BS Tools. Click Update”,
+    "dialog_message": "The app will close shortly and automatically switch to BS Tools. Click Update",
     "redirect_app": "https://play.google.com/store/apps/details?id=com.BS.Toolskit",
     "tutor_file": "https://youtu.be/2lXNqFCVVbg?si=42ZMv7S6VGiir6QM",
     "tutor_shizuku": "https://youtu.be/2lXNqFCVVbg?si=42ZMv7S6VGiir6QM",
